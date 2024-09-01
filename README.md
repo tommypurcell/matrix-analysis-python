@@ -4,7 +4,7 @@
 
 This repository contains a Python implementation of a matrix structural analysis for a 3D truss structure. The project includes the ability to calculate node displacements, reaction forces, and element forces for a given structure based on user-defined inputs.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="./screenshots/demo.gif" alt="Demo of the project" height="300px">
 </div>
 
