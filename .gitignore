@@ -1,0 +1,20 @@
+# macOS files
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+myvenv/
+env/
+.venv/
+
+# Editor-specific files
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
